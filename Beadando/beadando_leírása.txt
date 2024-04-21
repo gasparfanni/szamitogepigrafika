@@ -1,0 +1,5 @@
+2024 II. félév -- Párhuzamos algoritmusok beadandó feladat
+Beadandó első, rövid leírása
+2024 II. félévére Számítógépi grafika tantárgy aláírás megszerzéséhez egy beadandó grafikus feladat elkészítése szükséges. Az általam megvalósítani kívánt program ahol egy szoba közepén áll egy mozgó állat és lehet állítani a fényerőt a szobában.
+
+Projekt neve: világítás állítás
